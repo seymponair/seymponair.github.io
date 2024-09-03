@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://seymponair.github.io/sitemap.html.gz
+Sitemap: https://seymponair.github.io/app/sitemap.html.gz
+Sitemap: https://seymponair.github.io/assets/sitemap.html.gz
+Sitemap: https://seymponair.github.io/css/sitemap.html.gz
+Sitemap: https://seymponair.github.io/includes/sitemap.html.gz
+Sitemap: https://seymponair.github.io/item/sitemap.html.gz
+Sitemap: https://seymponair.github.io/src/sitemap.html.gz
